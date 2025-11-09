@@ -24,7 +24,7 @@ requirements.txt # Dependencies (none in this case)
   git clone https://github.com/voldemorthack01/python-login-system.git
   cd python-login-system
 3. Run the script:
-   python login.py
+   python login.py or python3 login.py for terminals
 > The script will auto-generate `accounts.txt` to store user data locally.
 
 ## 🚨 Disclaimer
